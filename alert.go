@@ -1,3 +1,9 @@
+// Erik Oomen, jul 2019
+//
+// Reads kafka business topic and filter out the severe errors
+//
+// Warning, not written for stability or performance
+
 package main
 
 import (
